@@ -18,3 +18,4 @@ This repository contains a portable RAID status reporting utility for Windows.
 
 - Hardware RAID controllers may require vendor-specific tools for full status reporting.
 - This script focuses on Windows-detectable RAID and storage information.
+
